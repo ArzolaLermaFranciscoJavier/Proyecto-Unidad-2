@@ -48,6 +48,11 @@ p{
  font-size:23px;
   color:white;
   
+word-spacing:1px;
+  padding:15px;
+  letter-spacing:2px;
+text-align:justify;
+text-align:center;
 }
 
 h2{

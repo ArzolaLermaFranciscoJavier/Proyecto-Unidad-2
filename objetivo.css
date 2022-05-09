@@ -55,7 +55,11 @@ background-color:#810945;
    }
 p{
 
-
+word-spacing:1px;
+  padding:15px;
+  letter-spacing:2px;
+text-align:justify;
+text-align:center;
  font-size:23px;
   color:white;
   

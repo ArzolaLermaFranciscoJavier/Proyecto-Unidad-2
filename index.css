@@ -65,7 +65,8 @@ font-size:large;
 color:#ffffff;
 font-size:16px;
   font-family:Century Gothic;
-  
+  text-align:justify;
+  text-align:center;
 }
 #lista{
   color:#ffffff;
@@ -90,7 +91,8 @@ font-size:large;
 color:#ffffff;
 font-size:16px;
   font-family:Century Gothic;
-  
+  text-align:justify;
+  text-align:center;
 
   
 }
@@ -110,3 +112,11 @@ background-color:#810945;
 
 background-color:#810945;
    }
+#lado {
+text-align:center;
+   }
+p{
+
+ font-size:26px;
+  color:white;
+     }

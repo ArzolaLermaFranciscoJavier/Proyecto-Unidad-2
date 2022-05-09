@@ -68,8 +68,17 @@ font-size:x-large;
 color:#ffffff;
 font-size:16px;
   font-family:Century Gothic;
-  
+  text-align:center;
+word-spacing:1px;
+  padding:15px;
+  letter-spacing:2px;
+text-align:justify;
 }
 #mar {
 
-background-color:#810945;
+background-color:#810945;   }
+p{
+
+ font-size:26px;
+  color:white;
+     }
